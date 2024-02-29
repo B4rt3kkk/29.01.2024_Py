@@ -1,0 +1,5 @@
+1. Napisz program który wczyta dwie liczby całkowite a następenie wpisze większe z nich wraz z komunikatem jest większa. Jeśli liczby sa rowne to program wispisze ze sa rowne.
+
+2. Napisz program ktory wczyta dwie rozne liczby calkowite dodatnie i sprawdzi ile razy mniejsza z nich mieści się w większej liczbie.
+
+3. Napisz program który zapyta użytkownika o bierzący rok i miesiąc oraz o datę urodzenia a w odpowiedzi zwróci informacje czy użytkownik jest pełnoletni jeśli nie jest program poda za ile miesięcy osiągnie on pełnoletność 
